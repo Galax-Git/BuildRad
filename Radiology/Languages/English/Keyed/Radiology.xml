@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CommandRadiologyAssignChamberLabel>Assign</CommandRadiologyAssignChamberLabel>
+  <CommandRadiologyAssignChamberDesc>Assign this chamber to be used by specific colonists.</CommandRadiologyAssignChamberDesc>
+  <ChamberTestRunLabel>Test run</ChamberTestRunLabel>
+  <ChamberTestRunDesc>Lauch the radiation process to work for a short while without an pawn to receive radiation.</ChamberTestRunDesc>
+  
+  <ChamberUnavailable>Cannot operate: {0}</ChamberUnavailable>
+  <ChamberNoPower>chamber not powered</ChamberNoPower>
+  <IrradiatorNoPower>irradiator not powered</IrradiatorNoPower>
+  <ChamberNoRoom>must be inside a room</ChamberNoRoom>
+  <ChamberNoIrradiator>no irradiator linked</ChamberNoIrradiator>
+  <ChamberPawnIsHurt>{0} is too hurt</ChamberPawnIsHurt>
+  
+  
+  <CommandRadiologyAssignRadiationBlockingLabel>Setup blocking</CommandRadiologyAssignRadiationBlockingLabel>
+  <CommandRadiologyAssignRadiationBlockingDesc>Setup blocking</CommandRadiologyAssignRadiationBlockingDesc>
+  <RadiologyFilterEnabled>Blocked</RadiologyFilterEnabled>
+  <RadiologyFilterDisabled>Not blocked</RadiologyFilterDisabled>
+
+  <RadiologyFilterBlocking>Blocking: {0}</RadiologyFilterBlocking>
+  <RadiologyFilterNone>none</RadiologyFilterNone>
+
+  <RadiologyRadiationBurn>Harmful radiation: {0}%</RadiologyRadiationBurn>
+  <RadiologyRadiationNormal>Normal radiation: {0}%</RadiologyRadiationNormal>
+  <RadiologyRadiationRare>Rare radiation: {0}%</RadiologyRadiationRare>
+
+  <RadiologyFilterOperationModeLabel>Set up</RadiologyFilterOperationModeLabel>
+  <RadiologyFilterOperationModeDesc>Change filtering mode.</RadiologyFilterOperationModeDesc>
+  <RadiologyFilterOperationMode>Operation mode: {0}</RadiologyFilterOperationMode>
+  <RadiologyFilterOperationModeNone>none</RadiologyFilterOperationModeNone>
+  <RadiologyFilterOperationModeSelected>Enabled</RadiologyFilterOperationModeSelected>
+  <RadiologyFilterOperationModeNotSelected>Not enabled</RadiologyFilterOperationModeNotSelected>
+
+  <RadiologyCancerNotGrowing>doesn't grow</RadiologyCancerNotGrowing>
+  <RadiologyCancerNotDiagnosed>not diagnosed</RadiologyCancerNotDiagnosed>
+</LanguageData>
